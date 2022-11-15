@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ancorecodes.herokuapp.com">
+  <a href="">
     <img src="https://raw.githubusercontent.com/ancoreraj/AncoreCodes/master/public/images/Logo-1.png" alt="Logo" width="256" height="256">
   </a>
 
